@@ -1,0 +1,5 @@
+nohup: ignoring input
+Could not find the bitsandbytes CUDA binary at PosixPath('/raid/home/abhaypatidar/miniconda3/envs/mamba/lib/python3.13/site-packages/bitsandbytes/libbitsandbytes_cuda126_nocublaslt.so')
+The installed version of bitsandbytes was compiled without GPU support. 8-bit optimizers, 8-bit multiplication, and GPU quantization are unavailable.
+Setting `pad_token_id` to `eos_token_id`:None for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:None for open-end generation.
