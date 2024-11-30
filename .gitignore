@@ -4,4 +4,3 @@ acl*
 __pycache__/
 *.csv
 data
-*.ipynb
